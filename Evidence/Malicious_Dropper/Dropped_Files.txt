@@ -1,0 +1,24 @@
+"a61824a20a04620fcb44adaadc6a83dc12f5eb52abd4b00f4d1bb5539d27db10.doc.bin" has "1536338" bytes of overlay at offset "5953" 
+  believed to be "751.exe" extracted in memory and run.
+
+"751.exe" wrote 32 bytes to a remote process "%WINDIR%\System32\TpmInit\msrating.exe" (Handle: 408)
+"751.exe" wrote 52 bytes to a remote process "%WINDIR%\System32\TpmInit\msrating.exe" (Handle: 408)
+"751.exe" wrote 4 bytes to a remote process "%WINDIR%\System32\TpmInit\msrating.exe" (Handle: 408) 
+
+"WINWORD.EXE" created file "%TEMP%\~DF622D8BA323F3A7D0.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DF79819D79A6F86D5D.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DF7ED2AE34A9F0C777.TMP"
+"WINWORD.EXE" created file "%TEMP%\VBE\MSForms.exd"
+"WINWORD.EXE" created file "%TEMP%\~DFE0A481BA7345BA06.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DFF3578D908DFC6D69.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DF3447664A03F0A5A9.TMP"
+"WINWORD.EXE" created file "%TEMP%\~DF9A311E14EEBDF26D.TMP" 
+
+"malware.LNK" has type "MS Windows shortcut Item id list present Points to a file or directory Has Relative path Archive ctime=Mon Aug 3 17:18:46 2020 mtime=Mon Aug 3 17:18:46 2020 atime=Mon Aug 3 17:18:56 2020 length=178893 window=hide"
+"~_alware.doc" has type "data"
+"overlay_f46ab4fc7927983527177c28f49124ad19471e01400a76da16c2752d746761f1" has type "ASCII text with very long lines with no line terminators"
+"index.dat" has type "data"
+"~WRS_E952EEB4-2922-4B42-B0F6-31853E6AAEC7_.tmp" has type "data"
+"XQ5M015PGLU6WE1MRT14.temp" has type "data"
+"~_Normal.dotm" has type "data"
+"MSForms.exd" has type "data" 

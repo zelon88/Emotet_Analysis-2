@@ -1,0 +1,2 @@
+%WINDIR%\system32\wfapigp
+%WINDIR%\system32\wfapigp\Narrator.exe

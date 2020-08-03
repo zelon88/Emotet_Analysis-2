@@ -1,0 +1,12 @@
+
+1. AntiPwny by  rvazarkar - https://github.com/rvazarkar/antipwny
+
+2. x64dbg - https://github.com/x64dbg/x64dbg
+
+3. npcap-0.9995 - https://nmap.org/npcap/
+
+4. Wireshark-win64-3.2.4 - https://www.wireshark.org/
+
+5. Online Hybrid-Analysis Tools - https://www.hybrid-analysis.com/
+
+6. dotNetFx40_Full_x86_x64.exe - https://www.microsoft.com/en-us/download/details.aspx?id=17718

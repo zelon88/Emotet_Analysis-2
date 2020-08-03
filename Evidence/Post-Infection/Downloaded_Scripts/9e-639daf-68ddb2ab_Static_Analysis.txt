@@ -1,0 +1,10 @@
+CONTAINED URLS
+  https://hbx.media.net/cksync.php
+  ib.adnxs.com/async_usersync_file
+  https://web.vortex.data.microsoft.com
+  https://dpm.demdex.net/id?d_orgid=A5FF776A5245AF830A490D44@AdobeOrg&d_cid=+(n(t)?88170%01+t+r:)+
+  https://web.vortex.data.microsoft.com||n.or
+  https://login.microsoftonline.com
+
+CONTAINED FILEPATHS
+  C:\9e-639daf-68ddb2ab.js

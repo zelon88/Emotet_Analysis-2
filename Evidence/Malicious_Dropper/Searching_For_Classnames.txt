@@ -1,0 +1,8 @@
+"WINWORD.EXE" searching for class "mspim_wnd32"
+"WINWORD.EXE" searching for class "MSOBALLOON"
+"WINWORD.EXE" searching for class "MsoHelp10"
+"WINWORD.EXE" searching for class "AgentAnim"
+"WINWORD.EXE" searching for class "NetUICtrlNotifySink"
+"WINWORD.EXE" searching for class "REListbox20W"
+"WINWORD.EXE" searching for class "OfficeTooltip"
+"WINWORD.EXE" searching for class "MsoCommandBarPopup" 
